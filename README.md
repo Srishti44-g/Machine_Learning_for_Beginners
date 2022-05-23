@@ -35,6 +35,7 @@ solutions, called labels.
 
 ![image](https://user-images.githubusercontent.com/67550382/169876646-a64a2239-8a9b-45b1-9356-890f4dce7b37.png)
 
+
 ** Some of the most important supervised learning algorithms are:
 1. k-Nearest Neighbors
 2. Linear Regression
@@ -74,3 +75,10 @@ In unsupervised learning, as you might guess, the training data is unlabeled
 ### Anomaly Detection
 ![image](https://user-images.githubusercontent.com/67550382/169878895-ac41fc0b-78e1-42a4-834e-7184dec74172.png)
 
+### Semisupervised Learning
+
+Some algorithms can deal with partially labeled training data, usually a lot of unla‐
+beled data and a little bit of labeled data. This is called semisupervised learning.
+
+
+![image](https://user-images.githubusercontent.com/67550382/169879282-4e8f56ca-815d-4ed8-a8b0-67be3e08f4e4.png)
