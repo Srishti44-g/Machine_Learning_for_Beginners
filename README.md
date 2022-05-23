@@ -70,3 +70,7 @@ In unsupervised learning, as you might guess, the training data is unlabeled
     
 ### Clustering 
 ![image](https://user-images.githubusercontent.com/67550382/169878580-ab2035ec-f18b-42d1-9ce1-70f92e763962.png)
+
+### Anomaly Detection
+![image](https://user-images.githubusercontent.com/67550382/169878895-ac41fc0b-78e1-42a4-834e-7184dec74172.png)
+
